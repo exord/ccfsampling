@@ -13,5 +13,5 @@ $ python test_ccfsampling.py
 
 Or from within python
 
->>> execfile('test_ccfsampling.py')
+\>\>\> execfile('test_ccfsampling.py')
 
